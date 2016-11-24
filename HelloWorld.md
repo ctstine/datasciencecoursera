@@ -1,2 +1,1 @@
-## This is a markdown file!
-## This is the first course project!
+## This is a markdown file

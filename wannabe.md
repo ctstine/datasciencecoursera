@@ -1,1 +1,0 @@
-## I wanna be a good data scientist!
